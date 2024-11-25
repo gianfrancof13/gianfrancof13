@@ -10,4 +10,5 @@ Soy un estudiante con una pasión por el aprendizaje continuo y la resolución d
 
 ## Contacto
 📫 Puedes escribirme a: [tuemail@dominio.com](mailto:gianfrancoferrero.e@gmail.com)
-🌐 LinkedIn: [TuPerfilLinkedIn]([https://linkedin.com](https://www.linkedin.com/in/gianfranco-ferrero/))  
+
+🌐 LinkedIn: https://linkedin.com](https://www.linkedin.com/in/gianfranco-ferrero/
