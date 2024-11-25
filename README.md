@@ -33,4 +33,4 @@ I am a student with a passion for continuous learning and solving complex proble
 
 # GitHub Stats
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=gianfrancof13&show_icons=true&theme=radical)
