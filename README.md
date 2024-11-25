@@ -1,14 +1,14 @@
-## Hi, Im Gianfranco Ferrero
+## Hi, I'm Gianfranco Ferrero
 
-Soy un estudiante con una pasión por el aprendizaje continuo y la resolución de problemas complejos. Mi experiencia combina el desarrollo web y el análisis de datos, habilidades que estoy perfeccionando constantemente mientras enfrento nuevos desafíos en proyectos académicos y profesionales. Estoy en una búsqueda continua de conocimientos, especialmente en el desarrollo de soluciones tecnológicas y basadas en datos. Disfruto analizar situaciones desafiantes, diseñar estrategias y aplicar herramientas para resolverlas de manera eficiente. Estoy comprometido con aprovechar cada oportunidad de aprendizaje y aplicar mis conocimientos para generar impacto positivo.
+I am a student with a passion for continuous learning and solving complex problems. My experience combines web development and data analysis, skills that I am constantly improving as I face new challenges in academic and professional projects. I am on an ongoing journey to acquire knowledge, particularly in developing data-driven and technological solutions. I enjoy analyzing challenging situations, designing strategies, and applying tools to solve them efficiently. I am committed to seizing every learning opportunity and using my knowledge to create a positive impact.
 
 <ul> 
-    <li> 🌱 Soy estudiante de Licenciatura en Ciencia de Datos.</li>
-    <li> 🔭 Actualmente tengo el rol de Subdirector del sitio web oficial de la Provincia de San Luis.</li>
-    <li> 🤝 Busco participar en proyectos donde pueda aprender, compartir ideas y crecer junto a un equipo.</li>
+    <li> 🌱 I am a Data Science undergraduate student.</li>
+    <li> 🔭 Currently, I hold the position of Deputy Director of the official website of the Province of San Luis.</li>
+    <li> 🤝 I am eager to participate in projects where I can learn, share ideas, and grow alongside a team.</li>
 </ul>
 
-## Contacto
-📫 Puedes escribirme a: [gianfrancoferrero.e@gmail.com](mailto:gianfrancoferrero.e@gmail.com)
+## Contact
+📫 You can reach me at: [gianfrancoferrero.e@gmail.com](mailto:gianfrancoferrero.e@gmail.com)
 
 🌐 LinkedIn: [Gianfranco Ferrero](https://www.linkedin.com/in/gianfranco-ferrero/)
